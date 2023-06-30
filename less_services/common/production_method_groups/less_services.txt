@@ -3,6 +3,8 @@
 	production_methods = {
 		pm_market_stalls
 		pm_market_squares
+		pm_modern_market_stalls
+		pm_modern_market_squares
 		pm_covered_markets
 		pm_arcades
 	}
